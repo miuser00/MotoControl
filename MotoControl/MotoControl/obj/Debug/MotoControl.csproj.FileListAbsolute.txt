@@ -1,0 +1,5 @@
+C:\Users\miuser\OneDrive\花样社项目\视觉光矩阵\MotoControl\MotoControl\bin\Debug\MotoControl.exe.config
+C:\Users\miuser\OneDrive\花样社项目\视觉光矩阵\MotoControl\MotoControl\obj\Debug\MotoControl.csprojResolveAssemblyReference.cache
+C:\Users\miuser\OneDrive\花样社项目\视觉光矩阵\MotoControl\MotoControl\obj\Debug\MotorControl.Form1.resources
+C:\Users\miuser\OneDrive\花样社项目\视觉光矩阵\MotoControl\MotoControl\obj\Debug\MotoControl.Properties.Resources.resources
+C:\Users\miuser\OneDrive\花样社项目\视觉光矩阵\MotoControl\MotoControl\obj\Debug\MotoControl.csproj.GenerateResource.Cache
